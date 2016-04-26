@@ -1,0 +1,10 @@
+{
+    "name": "folk",
+    "description": "Folk is a lightweight, portable, powerful and highly customizable content publishing platform.",
+    "version": "1.0.12",
+    "author": "Spikef",
+    "repository": "https://github.com/envirs/folk",
+    "engines": {
+        "node": ">= 4.0"
+    }
+}
