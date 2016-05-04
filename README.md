@@ -1,6 +1,6 @@
 # Folk
 
-> [Click here to read the English documents.](https://github.com/envirs/folk/blob/master/README_en.md)
+> [Click here to read the English documents.](http://www.baidu.com)
 
 Folk是一个轻量、便携，同时又很强大且可高度定制的内容发布平台。Folk的目标是：让您可以轻松地与世界分享您的点滴。
 
@@ -17,14 +17,16 @@ Folk默认使用markdown语法来撰写日志，但是Folk也支持通过插件�
 3. 对于asp版本，访问`http://您的域名/install`，然后根据提示进行安装；
 4. 对于node版本，在命令行执行`node install`，然后根据提示进行安装；
 5. 安装完毕，删除install目录。
+6. 对于asp版本，访问`http://您的域名/control.asp`进入管理后台
+7. 对于node版本，先`node index.js`启动网站服务，然后访问`http://您的域名/control`进入管理后台
 
 ## 文档
 
-详细安装: 
+[详细安装:](https://github.com/envirs/folk/blob/master/documents/cn/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC%E6%96%87%E6%A1%A3.md)
 
-主题开发:
+[主题开发:](https://github.com/envirs/folk/blob/master/documents/cn/%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C%E6%96%87%E6%A1%A3.md)
 
-插件开发:
+[插件开发:](https://github.com/envirs/folk/blob/master/documents/cn/%E6%8F%92%E4%BB%B6%E5%88%B6%E4%BD%9C%E6%96%87%E6%A1%A3.md)
 
 ## 开发计划
 
