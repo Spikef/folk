@@ -1,6 +1,6 @@
 # Folk
 
-> [Click here to read the English documents.](http://www.baidu.com)
+> [Click here to read the English documents.](https://github.com/envirs/folk/blob/master/README_en.md)
 
 Folk是一个轻量、便携，同时又很强大且可高度定制的内容发布平台。Folk的目标是：让您可以轻松地与世界分享您的点滴。
 
