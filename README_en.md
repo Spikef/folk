@@ -22,11 +22,11 @@ Markdown is the first choice for writing on Folk. But WYSIWYG editor plugin is a
 
 ## Documents
 
-[Install:](https://github.com/envirs/folk/blob/master/documents/en/install.md)
+* [Install:](https://github.com/envirs/folk/blob/master/documents/en/install.md)
 
-[Theme Develop:](https://github.com/envirs/folk/blob/master/documents/en/theme-dev.md)
+* [Theme Develop:](https://github.com/envirs/folk/blob/master/documents/en/theme-dev.md)
 
-[Plugin Develop:](https://github.com/envirs/folk/blob/master/documents/en/plugin-dev.md)
+* [Plugin Develop:](https://github.com/envirs/folk/blob/master/documents/en/plugin-dev.md)
 
 ## Road Map
 

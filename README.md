@@ -22,11 +22,11 @@ Folk默认使用markdown语法来撰写日志，但是Folk也支持通过插件�
 
 ## 文档
 
-[详细安装:](https://github.com/envirs/folk/blob/master/documents/cn/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC%E6%96%87%E6%A1%A3.md)
+* [详细安装:](https://github.com/envirs/folk/blob/master/documents/cn/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC%E6%96%87%E6%A1%A3.md)
 
-[主题开发:](https://github.com/envirs/folk/blob/master/documents/cn/%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C%E6%96%87%E6%A1%A3.md)
+* [主题开发:](https://github.com/envirs/folk/blob/master/documents/cn/%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C%E6%96%87%E6%A1%A3.md)
 
-[插件开发:](https://github.com/envirs/folk/blob/master/documents/cn/%E6%8F%92%E4%BB%B6%E5%88%B6%E4%BD%9C%E6%96%87%E6%A1%A3.md)
+* [插件开发:](https://github.com/envirs/folk/blob/master/documents/cn/%E6%8F%92%E4%BB%B6%E5%88%B6%E4%BD%9C%E6%96%87%E6%A1%A3.md)
 
 ## 开发计划
 
