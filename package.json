@@ -1,10 +1,36 @@
 {
-    "name": "folk",
-    "description": "Folk is a lightweight, portable, powerful and highly customizable content publishing platform.",
-    "version": "1.0.17",
-    "author": "Spikef",
-    "repository": "https://github.com/envirs/folk",
-    "engines": {
-        "node": ">= 4.0"
-    }
+  "name": "Folk",
+  "description": "Folk is a lightweight, portable, powerful and highly customizable content publishing platform. The goal of folk is to share your minds with the worlds easily.",
+  "version": "1.1.17",
+  "author": "Spikef, evio",
+  "homepage": "http://folk.webkits.cn",
+  "repository": "https://github.com/envirs/folk",
+  "keywords": [
+    "blog",
+    "CMS",
+    "asp",
+    "node"
+  ],
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node index.js --debug"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-handle": "^1.0.3",
+    "crypts": "^1.0.2",
+    "ejs-lite": "^1.0.5",
+    "express": "^4.13.4",
+    "fnu": "0.0.2",
+    "fo-pack": "0.0.3",
+    "fs-arm": "0.0.1",
+    "node-database": "0.0.11",
+    "request": "^2.72.0",
+    "semver": "^5.1.0",
+    "serve-favicon": "^2.3.0",
+    "xss": "^0.2.13"
+  }
 }
